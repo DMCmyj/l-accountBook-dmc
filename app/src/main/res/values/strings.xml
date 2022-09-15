@@ -1,0 +1,49 @@
+<resources>
+    <!--    主页面-->
+    <string name="app_name">Pedestrians</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Bill</string>
+    <string name="title_notifications">Statistics</string>
+    <string name="title_user">User</string>
+
+    <!--   个人fragment -->
+    <string name="un_login_tip">Unlogin</string>
+    <string name="user_title_account">Bill</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login_title">User Login</string>
+
+    <string name="username_title">Account</string>
+    <string name="login_bottom_tip">version1.0 bate</string>
+    <string name="password_title">password</string>
+    <string name="identifying_code">code</string>
+    <string name="code_tip">input code</string>
+    <string name="inivalid_code">Code must be =4 characters</string>
+    <string name="user_avatar_title">头像</string>
+    <string name="username_setting_title">用户名</string>
+    <string name="logout_title">退出登录</string>
+    <string name="user_info_title">个人信息</string>
+    <string name="income">Income</string>
+    <string name="pay">Pay</string>
+    <string name="month_select">选择月份</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="regist_btn">注册</string>
+    <string name="regist_title">用户注册</string>
+    <string name="hint_confirm_password">请输入确认密码</string>
+    <string name="regist_now_btn">立即注册</string>
+    <string name="phone_tip">手机</string>
+    <string name="phone_hint">请输入手机号</string>
+    <string name="continum_card">已连续打卡</string>
+    <string name="total_day">记账总天数</string>
+    <string name="total_bill_num">记账总笔数</string>
+    <string name="user_bill">账单</string>
+    <string name="left">Left</string>
+</resources>

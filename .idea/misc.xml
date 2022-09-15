@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.363" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable-v24/navigation_icon_selector_user.xml" value="0.3215" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/bang_progressbar_bg.xml" value="0.363" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/chart_top_selected_shape.xml" value="0.3255" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/chart_top_selector.xml" value="0.3255" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/chart_top_shape.xml" value="0.3255" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/home_item_title_bg.xml" value="0.363" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/homepage_top_shape.xml" value="0.3255" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_add_bold.xml" value="0.3125" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_bank_card.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_baseline_check_24.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_baseline_chevron_left_24.xml" value="0.363" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_book.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_borrow.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_buy_vegetables.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_car_using.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_cash.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_chart.xml" value="0.1435" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_chart_default.xml" value="0.3125" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_check.xml" value="0.2805" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_clothing.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_common.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_cosmetics.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_credit_card.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.363" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_day_use.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_drink.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_drug.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_education.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_electronics.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_entertainment.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_film.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_fix.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_food.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_fruits.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_game.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_gift.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.363" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_house_electrical.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_huabei.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_investment.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_jdbt.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_launcher_background.xml" value="0.363" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_launcher_myself_background.xml" value="0.3125" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_lend.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_love.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_main.xml" value="0.1435" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_main_default.xml" value="0.3125" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_music.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.363" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_parenting.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_pay_bag.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_pet.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_rent.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_saving_deposit_card.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_snacks.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_sport.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_taobao.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_traffic.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_travel.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_user.xml" value="0.3125" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_user_default.xml" value="0.363" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/ic_weixin_pay.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/my_bg_color.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/my_bg_color_hor.xml" value="0.1565" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/my_cursor.xml" value="0.363" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/navigation_icon_selector_chart.xml" value="0.2015" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/navigation_icon_selector_check.xml" value="0.3125" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/navigation_icon_selector_main.xml" value="0.193" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/radius_shape.xml" value="0.243" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/radius_shape_helf.xml" value="0.193" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/radius_shape_month_bill_income.xml" value="0.363" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/radius_shape_month_bill_pay.xml" value="0.363" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/shape_progress_bang.xml" value="0.199" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/user_setting_bottom_line.xml" value="0.363" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/drawable/user_setting_bottom_line_home_item.xml" value="0.363" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.24765625" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/layout-w936dp/activity_login.xml" value="0.23203125" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/layout/activity_add_record.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/layout/activity_month_bill.xml" value="0.4199395770392749" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/layout/activity_regist.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/layout/activity_user_setting.xml" value="0.5" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/layout/add_record_grid_item.xml" value="0.75" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/layout/add_record_item.xml" value="0.5" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/layout/bang_item.xml" value="1.1" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/layout/fragment_dashboard.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/layout/fragment_expenditure.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/layout/fragment_income.xml" value="0.5404354587869362" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/layout/fragment_notifications.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/layout/home_list_item.xml" value="0.5" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/layout/home_sub_list_item.xml" value="0.33" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/layout/layout.xml" value="0.3619791666666667" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/layout/layout_modify_name.xml" value="0.5" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/layout/layout_month_bill_rank_item.xml" value="0.9" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/layout/layout_second_bill_item.xml" value="0.67" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/layout/my_month_picker.xml" value="0.67" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/layout/my_price_type_picker.xml" value="0.75" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/layout/my_year_picker.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/layout/user_fragment.xml" value="0.5404354587869362" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/menu/bottom_nav_menu.xml" value="0.3609375" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/menu/home_long_click_menu.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/mipmap-anydpi-v26/ic_launcher_my_bill.xml" value="0.363" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/mipmap-anydpi-v26/ic_launcher_my_bill_round.xml" value="0.363" />
+        <entry key="..\:/AndroidStudioProject/pudding_keep_account/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.209" />
+        <entry key="..\:/AndroidStudioResource/SDK/platforms/android-32/data/res/layout/calendar_view.xml" value="0.221875" />
+        <entry key="..\:/AndroidStudioResource/SDK/platforms/android-32/data/res/layout/cascading_menu_item_layout.xml" value="0.221875" />
+        <entry key="..\:/AndroidStudioResource/SDK/platforms/android-32/data/res/layout/character_picker.xml" value="0.221875" />
+        <entry key="..\:/AndroidStudioResource/SDK/platforms/android-32/data/res/layout/character_picker_button.xml" value="0.221875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

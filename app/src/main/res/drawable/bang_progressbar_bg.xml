@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--  设置背景色图像资源  -->
+    <item android:id="@android:id/background" android:drawable="@color/white" />
+    <!--  设置第一级进度条颜色图像资源  -->
+    <item android:id="@android:id/progress" >
+        <scale android:drawable="@drawable/shape_progress_bang"
+            android:scaleWidth="100%"/>
+    </item>
+</layer-list>

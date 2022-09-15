@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--
+     平移动画
+     duration-动画持续时间
+     android:fromXDelta,android:fromYDelta-起始 x,y
+     android:toXDelta,android:toYDelta-终点 x,y
+    -->
+    <translate
+        android:duration="300"
+        android:fromXDelta="0"
+        android:fromYDelta="100%"
+        android:toXDelta="0"
+        android:toYDelta="0%" />
+</set>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">小账本</string>
+    <string name="title_home">主页</string>
+    <string name="title_dashboard">账单</string>
+    <string name="title_notifications">统计</string>
+    <string name="title_user">个人</string>
+    <string name="un_login_tip">未登录</string>
+    <string name="user_title_account">账单</string>
+    <string name="title_activity_login">登录</string>
+    <string name="prompt_email">请输入手机号</string>
+    <string name="prompt_password">请输入密码</string>
+    <string name="action_sign_in">登录</string>
+    <string name="action_sign_in_short">登录</string>
+    <string name="welcome">欢迎！</string>
+    <string name="invalid_username">不是一个有效的用户名</string>
+    <string name="invalid_password">密码长度必须大于5个字符</string>
+    <string name="login_failed">登录失败</string>
+    <string name="login_title">用户登录</string>
+    <string name="username_title">账号</string>
+    <string name="login_bottom_tip">version1.0 bate版本</string>
+    <string name="password_title">密码</string>
+    <string name="identifying_code">验证码</string>
+    <string name="code_tip">请输入验证码</string>
+    <string name="inivalid_code">验证码长度为4位</string>
+    <string name="user_avatar_title">头像</string>
+    <string name="username_setting_title">用户名</string>
+    <string name="logout_title">退出登录</string>
+    <string name="user_info_title">个人信息</string>
+    <string name="income">收入</string>
+    <string name="pay">支出</string>
+    <string name="month_select">选择月份</string>
+    <string name="regist_btn">注册</string>
+    <string name="regist_title">用户注册</string>
+    <string name="hint_confirm_password">请输入确认密码</string>
+    <string name="regist_now_btn">立即注册</string>
+    <string name="phone_tip">手机</string>
+    <string name="phone_hint">请输入手机号</string>
+    <string name="continum_card">已连续打卡</string>
+    <string name="total_day">记账总天数</string>
+    <string name="total_bill_num">记账总笔数</string>
+    <string name="user_bill">账单</string>
+    <string name="left">结余</string>
+</resources>

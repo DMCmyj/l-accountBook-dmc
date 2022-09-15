@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="FloatingStyle" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorAccent">@color/white</item>
+    </style>
+    <style name="InputBoxStyle">
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:background">@drawable/edit_layout_shap</item>
+        <item name="android:gravity">center</item>
+        <item name="android:paddingTop">14dp</item>
+        <item name="android:paddingBottom">14dp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+    </style>
+
+    <style name="MyInput">
+        <item name="android:background">@null</item>
+        <item name="android:textCursorDrawable">@drawable/my_cursor</item>
+    </style>
+
+    <style name="UserSettingLine">
+        <item name="android:paddingBottom">12dp</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingLeft">10dp</item>
+        <item name="android:paddingRight">10dp</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:orientation">horizontal</item>
+    </style>
+
+    <style name="AnimBottom" parent="@android:style/Animation">
+        <item name="android:windowEnterAnimation">@anim/pw_bottom_in</item>
+        <item name="android:windowExitAnimation">@anim/pw_bottom_out</item>
+    </style>
+
+    <style name="AddRecordTabText">
+        <item name="android:textSize">16dp</item>
+    </style>
+
+    <style name="MyCalendarView" parent="android:Widget.Material.Light.CalendarView">
+        <item name="android:focusedMonthDateColor">@color/main_pink_third</item>
+        <item name="android:weekNumberColor">@color/main_pink_second</item>
+    </style>
+
+</resources>

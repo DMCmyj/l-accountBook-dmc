@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="renderer" content="webkit">
+    <!-- 引入 ECharts 文件 -->
+    <script src="echarts.min.js"></script>
+    <style>
+        body{
+            margin:0;
+            padding:0;
+        }
+    </style>
+</head>
+<body>
+<span id="test"></span>
+<!-- 为 ECharts 准备一个具备大小（宽高）的 DOM -->
+<div id="main" style="height: 100%;"></div>
+<script type="text/javascript">
+var main = document.getElementById("main");
+main.style.height = window.innerHeight + "px";
+var myChart = echarts.init(document.getElementById('main'));
+
+// prettier-ignore
+let dataAxis = [1,2,3,4,5,6,7,8,9,10,11,12];
+// prettier-ignore
+let data = [];
+let yMax = 500;
+let dataShadow = [];
+for (let i = 0; i < data.length; i++) {
+  dataShadow.push(yMax);
+}
+option = {
+  tooltip:{
+    trigger:"axis",
+    formatter:"<b>{b}月</b><br/>支出：<b>{c}元</b>",
+    backgroundColor: 'rgba(255, 255, 255, 0.8)',
+  },
+  grid:{
+    show:false,
+    left:0,
+    top:0,
+    right:0,
+    bottom:20
+  },
+  xAxis: {
+    data: dataAxis,
+    axisTick: {
+      show: false
+    },
+    axisLabel: {
+      fontSize:10
+    },
+    axisLine: {
+      show: false
+    },
+    z: 10
+  },
+  yAxis: {
+    show:false,
+    axisLine: {
+      show: false
+    },
+    axisTick: {
+      show: true
+    },
+    axisLabel: {
+      color: '#999'
+    }
+  },
+  dataZoom: [
+    {
+      type: 'inside'
+    }
+  ],
+  series: [
+    {
+      type: 'bar',
+      showBackground: true,
+      itemStyle: {
+        color: new echarts.graphic.LinearGradient(0, 0, 0, 1, [
+          { offset: 0, color: '#83bff6' },
+          { offset: 0.5, color: '#188df0' },
+          { offset: 1, color: '#188df0' }
+        ]),
+        borderRadius:5,
+      },
+      data: data
+    }
+  ]
+};
+// Enable data zoom when user click bar.
+const zoomSize = 6;
+myChart.on('click', function (params) {
+  console.log(dataAxis[Math.max(params.dataIndex - zoomSize / 2, 0)]);
+  myChart.dispatchAction({
+    type: 'dataZoom',
+    startValue: dataAxis[Math.max(params.dataIndex - zoomSize / 2, 0)],
+    endValue:
+      dataAxis[Math.min(params.dataIndex + zoomSize / 2, data.length - 1)]
+  });
+});
+      //先初始化默认的echarts图 ，setData() 这个方法是来接收需要改变echarts图的地方
+myChart.setOption(option);
+   function setData(option) {
+            // 基于准备好的dom，初始化echarts实例
+            var myChart = echarts.init(document.getElementById('main'));
+            // 使用刚指定的配置项和数据显示图表。
+            myChart.setOption(option);
+        }
+
+</script>
+</body>
+</html>
